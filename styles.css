@@ -31,7 +31,7 @@ nav ul li {
 .men-image {
   background-image: url("/images/DB.jpg");
   background-color: #cccccc;
-  height: 750px;
+  height: 500px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -49,7 +49,7 @@ nav ul li {
 .women-image {
   background-image: url("/images/womenwatches.jpg");
   background-color: #cccccc;
-  height: 750px;
+  height: 500px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -86,7 +86,7 @@ a {
 .straps-image {
   background-image: url("/images/straps.jpg");
   background-color: #cccccc;
-  height: 500px;
+  height: 400px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -104,7 +104,7 @@ a {
 .services-image {
   background-image: url("/images/services.webp");
   background-color: #cccccc;
-  height: 500px;
+  height: 400px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -114,7 +114,7 @@ a {
 .services-text {
   text-align: center;
   position: absolute;
-  bottom: 30%;
+  bottom: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -252,9 +252,10 @@ p {
 
 .dk-footer-box-info {
   position: absolute;
-  top: -122px;
+  top: -70px;
+  text-align: justify;
   background: #202020;
-  padding: 40px;
+  padding: 20px;
   z-index: 2;
 }
 .dk-footer-box-info .footer-social-link h3 {
